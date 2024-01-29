@@ -1,0 +1,7 @@
+C:\Users\Astral\source\repos\Buoi1_NgonNguCSharp\ThucHanh3\bin\Debug\ThucHanh3.exe.config
+C:\Users\Astral\source\repos\Buoi1_NgonNguCSharp\ThucHanh3\bin\Debug\ThucHanh3.exe
+C:\Users\Astral\source\repos\Buoi1_NgonNguCSharp\ThucHanh3\bin\Debug\ThucHanh3.pdb
+C:\Users\Astral\source\repos\Buoi1_NgonNguCSharp\ThucHanh3\obj\Debug\ThucHanh3.csproj.AssemblyReference.cache
+C:\Users\Astral\source\repos\Buoi1_NgonNguCSharp\ThucHanh3\obj\Debug\ThucHanh3.csproj.CoreCompileInputs.cache
+C:\Users\Astral\source\repos\Buoi1_NgonNguCSharp\ThucHanh3\obj\Debug\ThucHanh3.exe
+C:\Users\Astral\source\repos\Buoi1_NgonNguCSharp\ThucHanh3\obj\Debug\ThucHanh3.pdb
